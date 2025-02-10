@@ -10,10 +10,6 @@ PredWell is a sophisticated healthcare prediction platform that leverages artifi
   - Skin lesions
   - Liver Disease
 
-- **Blood Report Analysis**: Comprehensive analysis of blood reports for liver and heart health assessment
-- **Skin Lesion Detection**: Advanced detection system for various skin conditions
-- **Personalized Health Insights**: Tailored health recommendations based on individual data
-
 ## 💻 Technical Stack
 
 - **Backend**: Django Framework
